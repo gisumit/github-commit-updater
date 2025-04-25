@@ -339,8 +339,13 @@
       "date": "2025-04-24",
       "seq": 2,
       "id": "1sd2uijx"
+    },
+    {
+      "date": "2025-04-25",
+      "seq": 1,
+      "id": "8fjyhuti"
     }
   ],
-  "last_updated": "2025-04-24T14:20:06",
-  "total": 68
+  "last_updated": "2025-04-25T14:08:27",
+  "total": 69
 }
