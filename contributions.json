@@ -949,8 +949,13 @@
       "date": "2025-06-01",
       "seq": 3,
       "id": "n4lnmtff"
+    },
+    {
+      "date": "2025-06-02",
+      "seq": 1,
+      "id": "g1w0ozix"
     }
   ],
-  "last_updated": "2025-06-01T19:00:05",
-  "total": 190
+  "last_updated": "2025-06-02T15:34:22",
+  "total": 191
 }
